@@ -17,9 +17,6 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
-
 [vk]: https://vk.com/nickfriday
 [vkblog]: https://vk.com/nfriday
 [youtube]: https://www.youtube.com/channel/UCQgv-iYqAqnIgFJ-rVVmHiA
