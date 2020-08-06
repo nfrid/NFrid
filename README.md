@@ -12,15 +12,15 @@
 <br />
 
 ## me:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk] - me hate VK
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" alt="me hate VK" />][vk]
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] - me's YouTube channel
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="me's YouTube channel" />][youtube]
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] - me on Shitter
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="me on Shitter" />][twitter]
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] - me lookin good
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="me lookin good" />][instagram]
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] - me makin server on Discord
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="me makin server on Discord" />][discord]
 
 [vk]: https://vk.com/nickfriday
 [vkblog]: https://vk.com/nfriday
