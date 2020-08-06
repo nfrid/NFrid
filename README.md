@@ -12,13 +12,15 @@
 <br />
 
 ## me:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk] - me hate VK
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] - me's YouTube channel
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] - me on Shitter
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] - me lookin good
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] - me makin server on Discord
 
 [vk]: https://vk.com/nickfriday
 [vkblog]: https://vk.com/nfriday
 [youtube]: https://www.youtube.com/channel/UCQgv-iYqAqnIgFJ-rVVmHiA
 [twitter]: https://twitter.com/nfriday5
 [instagram]: https://www.instagram.com/nfriday.inst/
+[discord]: https://discord.gg/Ae7Awg5
