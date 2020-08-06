@@ -12,11 +12,11 @@
 <br />
 
 ## me:
-![<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" alt="me hate VK" /> - test |][vk]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="me's YouTube channel" />][youtube]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="me on Shitter" />][twitter]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="me lookin good" />][instagram]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="me makin server on Discord" />][discord]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" alt="me hate VK" /> > me hate VK |][vk]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="me's YouTube channel" /> > me's YouTube channel |][youtube]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="me on Shitter" /> > me on Shitter |][twitter]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="me lookin good" /> > me lookin good |][instagram]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="me makin server on Discord" /> > me makin server on Discord][discord]
 
 [vk]: https://vk.com/nickfriday
 [vkblog]: https://vk.com/nfriday
