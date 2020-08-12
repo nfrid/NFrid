@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with my life.
 - 💬 Ask me about me in me's PM on Discord (undefined#9205).
 - 😄 Pronouns: me
-- ⚡ Fun fact: I'm Russian, I'm a writer and I'm a [Russian writer][vkblog].
+- ⚡ Fun fact: me is Russian, me is a writer and me is a [Russian writer][vkblog].
 
 <br />
 
