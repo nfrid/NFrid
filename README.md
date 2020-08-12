@@ -1,13 +1,13 @@
 ### Hi there 🗿
 
 ## me is Nick Friday aka undefined
-- 🔭 I’m currently working on [civsim](https://github.com/NFrid/civsim).
-- 🌱 I’m currently learning yes.
-- 👯 I’m looking to collaborate.
-- 🤔 I’m looking for help with my life.
-- 💬 Ask me about me in me's PM on Discord (undefined#9205).
-- 😄 Pronouns: me
-- ⚡ Fun fact: me is Russian, me is a writer and me is a [Russian writer][vkblog].
+- 🙃 me is currently working on [civsim](https://github.com/NFrid/civsim).
+- 🤤 me is currently learning yes.
+- 🥴 me is looking to collaborate.
+- 🥳 me is looking for help with my life.
+- 👽 Ask me about me in me's PM on Discord (undefined#9205).
+- 🤬 Pronouns: me
+- 👌🏻 Fun fact: me is Russian, me is a writer and me is a [Russian writer][vkblog].
 
 <br />
 
