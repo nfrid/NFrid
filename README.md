@@ -1,7 +1,7 @@
 ### Hi there 🗿
 
 ## me is Nick Friday aka undefined
-- 🙃 me is currently working on [civsim](https://github.com/NFrid/civsim).
+- 🙃 me is currently not working on.
 - 🤤 me is currently learning yes.
 - 🥴 me is looking to collaborate.
 - 🥳 me is looking for help with my life.
