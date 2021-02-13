@@ -5,6 +5,6 @@ me 👽️
 ## Links
 
 [Personal Website](https://nfrid.me) (W.I.P.),
-<a rel="me" href="https://mastodon.ml/@nf">Mastodon</a>,
+[Mastodon](https://mastodon.ml/@nf),
 [Telegram](https://t.me/nfrid5),
 [VK Blog](https://vk.com/nfriday) (dead)
