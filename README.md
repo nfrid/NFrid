@@ -4,7 +4,7 @@ me 👽️
 
 ## Links
 
-[Personal Website]() (temporarily dead),
+[Personal Website](https://nfrid.ru) (wip),
 [Mastodon](https://mastodon.ml/@nf),
 [Telegram](https://t.me/nfrid5),
 [VK Blog](https://vk.com/nfriday) (dead)
