@@ -6,4 +6,4 @@ me 👽️
 
 [Personal Website](https://nfrid.ru) (wip),
 [Mastodon](https://mastodon.ml/@nf),
-[Telegram](https://t.me/nfrid5),
+[Telegram](https://t.me/nfrid5)
