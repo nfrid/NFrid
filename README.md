@@ -28,5 +28,14 @@
       <img src="https://t.me/favicon.ico" height="16" />
       @nfrid5
     </a>
+    |
+    <a
+      rel="nofollow noopener noreferrer"
+      target="_blank"
+      href="https://youtube.com/@fridayp"
+    >
+      <img src="https://youtube.com/favicon.ico" height="16" />
+      @fridayp
+    </a>
   </h3>
 </samp>
