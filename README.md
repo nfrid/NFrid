@@ -9,10 +9,10 @@
     <a
       rel="nofollow noopener noreferrer"
       target="_blank"
-      href="https://nfrid.ru"
+      href="https://nfrid.me"
     >
       <img src="https://nfrid.ru/favicon.ico" height="16" />
-      nfrid.ru
+      nfrid.me
     </a>
     |
     <a rel="me" target="_blank" href="https://mastodon.ml/@nf">
