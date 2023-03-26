@@ -11,7 +11,7 @@
       target="_blank"
       href="https://nfrid.me"
     >
-      <img src="https://nfrid.ru/favicon.ico" height="16" />
+      <img src="https://nfrid.me/favicon.ico" height="16" />
       nfrid.me
     </a>
     |
