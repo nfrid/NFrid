@@ -23,7 +23,7 @@
     <a
       rel="nofollow noopener noreferrer"
       target="_blank"
-      href="https://t.me/@nfrid5"
+      href="https://t.me/nfrid5"
     >
       <img src="https://t.me/favicon.ico" height="16" />
       @nfrid5
